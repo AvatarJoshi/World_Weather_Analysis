@@ -1,6 +1,9 @@
 # Additional ignores
 .DS_Store
 config.py
+API_practice.ipynb
+WeatherPy.ipynb
+random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
