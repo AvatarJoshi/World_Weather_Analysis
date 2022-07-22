@@ -4,6 +4,8 @@ config.py
 API_practice.ipynb
 WeatherPy.ipynb
 random_numbers.ipynb
+Vacation_Itinerary_starter_code.ipynb
+Vacation_Search_starter_code.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
